@@ -68,7 +68,7 @@
 
 ------------
 
-***System Only** 
+**System Only** 
 
 System only stats does not require any of the above stats except *Included in every Request* (example at the bottom)
 
