@@ -77,6 +77,12 @@ System only stats does not require any of the above stats except *Included in ev
 | :------------- | :----------: | 
 |  cpu_cores   | (int) |
 |  cpu_threads  | (int) |
+|  cpu_node_system_seconds_total  | (long) |
+|  cpu_node_user_seconds_total    | (long) |
+|  cpu_node_iowait_seconds_total  | (long) |
+|  cpu_node_idle_seconds_total    | (long) |
+
+
 |  |  |
 | memory_node_bytes_total | (long) |
 | memory_node_bytes_free | (long) |
