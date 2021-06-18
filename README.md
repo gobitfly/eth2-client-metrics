@@ -28,10 +28,8 @@
 
 | Metric   | Description   | 
 | :------------- | :----------: | 
-|  **CPU Process Stats** |  |
 |  cpu_process_seconds_total | (long) cpu seconds consumed by process |
 |  |  |
-|  **Memory Process Stats** |  |
 |  memory_process_bytes	 |  bytes |
 |  |  |
 | client_name | (string) prysm, lighthouse, nimbus, teku |
@@ -77,17 +75,14 @@ System only stats does not require any of the above stats except *Included in ev
 
 | Metric   | Description   | 
 | :------------- | :----------: | 
-| CPU |  |
 |  cpu_cores   | (int) |
 |  cpu_threads  | (int) |
 |  |  |
-| Memory |  |
 | memory_node_bytes_total | (long) |
 | memory_node_bytes_free | (long) |
 | memory_node_bytes_cached | (long) |
 | memory_node_bytes_buffered |(long) |
 |  |  |
-| Disk |  |
 | disk_node_bytes_total| (long) |
 | disk_node_bytes_free | (long) |
 |  |  |
@@ -95,7 +90,6 @@ System only stats does not require any of the above stats except *Included in ev
 | disk_node_reads_total | (long) disk iops, completed reads |
 | disk_node_writes_total  | (long) disk iops, completed writes |
 |  |  |
-| Network |  |
 | network_node_bytes_total_receive  | (long) |
 | network_node_bytes_total_transmit  | (long) |
 |  |  |
