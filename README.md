@@ -37,6 +37,9 @@
 | client_name | (string) prysm, lighthouse, nimbus, teku |
 | client_version |  (string) |
 | client_build | (int) incrementing for easier comparison |
+|  |  |
+| sync_eth2_fallback_configured | (bool) whether a fallback is configured |
+| sync_eth2_fallback_connected | (bool) whether we are currently connected with fallback |
 
 ------------
 
