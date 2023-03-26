@@ -5,6 +5,7 @@
 | :------------- | :----------: | :----------: | :----------: |
 |  Lighthouse | v1.4.0  | Yes  | No   |
 |  Prysm | v1.3.10 | Yes (Alpha)   | [Yes](https://docs.prylabs.network/docs/prysm-usage/client-stats/ "Yes")   |
+|  Lodestar | v1.6.0 | Yes  | [Yes](https://chainsafe.github.io/lodestar/usage/client-monitoring/ "Yes")   |
 |  Teku | / | No  | No   |
 |  Nimbus | / | No   | No   |
 
